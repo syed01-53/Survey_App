@@ -249,3 +249,104 @@
 2025-06-07 23:28:08,410 - __main__ - INFO - Database initialized successfully
 2025-06-07 23:28:08,415 - __main__ - INFO - Media directories created successfully
 2025-06-07 23:28:08,417 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:40:56,874 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:40:56,929 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:40:56,930 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:41:15,700 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:41:15,727 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:41:15,731 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:41:15,755 - __main__ - WARNING - Failed login attempt for user: admin
+2025-06-11 12:42:41,290 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:42:41,291 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:42:41,292 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:42:41,340 - __main__ - WARNING - Failed login attempt for user: admin
+2025-06-11 12:42:43,000 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:42:43,002 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:42:43,003 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:42:43,028 - __main__ - WARNING - Failed login attempt for user: admin
+2025-06-11 12:42:43,838 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:42:43,841 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:42:43,842 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:42:43,914 - __main__ - WARNING - Failed login attempt for user: admin
+2025-06-11 12:42:44,055 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:42:44,057 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:42:44,058 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:42:44,094 - __main__ - WARNING - Failed login attempt for user: admin
+2025-06-11 12:42:47,174 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:42:47,179 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:42:47,180 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:42:47,270 - __main__ - WARNING - Failed login attempt for user: admin
+2025-06-11 12:42:53,639 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:42:53,642 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:42:53,642 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:43:11,175 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:43:11,178 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:43:11,180 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:43:11,223 - __main__ - INFO - Admin logged in successfully
+2025-06-11 12:43:11,344 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:43:11,346 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:43:11,347 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:43:20,954 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:43:20,976 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:43:20,978 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:44:19,142 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:44:19,144 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:44:19,145 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:44:19,616 - __main__ - INFO - Survey 1 created successfully
+2025-06-11 12:45:49,568 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:45:49,571 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:45:49,572 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:45:52,649 - __main__ - INFO - Audio generated: media\audio\1_question_1.mp3
+2025-06-11 12:45:52,830 - __main__ - INFO - Question added to survey 1
+2025-06-11 12:45:52,975 - __main__ - INFO - Added 4 options for question 2
+2025-06-11 12:46:04,114 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:46:04,116 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:46:04,116 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:46:38,144 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:46:38,145 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:46:38,147 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:46:38,803 - __main__ - INFO - User imran created successfully
+2025-06-11 12:46:53,436 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:46:53,438 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:46:53,440 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:46:53,455 - __main__ - INFO - User Unknown logged out
+2025-06-11 12:46:53,653 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:46:53,680 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:46:53,697 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:47:05,392 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:47:05,393 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:47:05,393 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:47:06,108 - __main__ - INFO - User imran logged in successfully
+2025-06-11 12:47:06,202 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:47:06,206 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:47:06,210 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:47:28,332 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:47:28,337 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:47:28,339 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:47:28,669 - __main__ - INFO - Survey submitted by user imran
+2025-06-11 12:47:37,098 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:47:37,105 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:47:37,107 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:47:50,428 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:47:50,434 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:47:50,446 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:47:50,456 - __main__ - INFO - User imran logged out
+2025-06-11 12:47:50,591 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:47:50,600 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:47:50,601 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:47:54,920 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:47:54,922 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:47:54,924 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:48:02,638 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:48:02,640 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:48:02,640 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:48:02,659 - __main__ - INFO - Admin logged in successfully
+2025-06-11 12:48:02,760 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:48:02,762 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:48:02,762 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:48:15,075 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:48:15,079 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:48:15,079 - __main__ - INFO - Application initialized successfully
+2025-06-11 12:48:22,272 - __main__ - INFO - Database initialized successfully
+2025-06-11 12:48:22,280 - __main__ - INFO - Media directories created successfully
+2025-06-11 12:48:22,281 - __main__ - INFO - Application initialized successfully
