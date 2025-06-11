@@ -1,0 +1,251 @@
+2025-06-07 22:14:24,695 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:14:24,700 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:14:24,701 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:14:43,270 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:14:43,276 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:14:43,276 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:14:46,167 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:14:46,170 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:14:46,175 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:14:54,809 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:14:54,812 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:14:54,814 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:15:08,173 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:15:08,175 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:15:08,175 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:15:08,186 - __main__ - INFO - Admin logged in successfully
+2025-06-07 22:15:08,320 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:15:08,324 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:15:08,325 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:16:05,271 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:16:05,275 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:16:05,277 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:16:05,422 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:16:05,426 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:16:05,426 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:16:16,248 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:16:16,250 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:16:16,250 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:16:19,578 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:16:19,581 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:16:19,582 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:16:19,697 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:16:19,698 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:16:19,699 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:16:23,194 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:16:23,197 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:16:23,198 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:17:08,743 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:17:08,748 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:17:08,749 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:17:08,878 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:17:08,880 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:17:08,881 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:18:06,611 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:18:06,613 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:18:06,613 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:19:38,829 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:19:38,832 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:19:38,832 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:19:53,538 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:19:53,542 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:19:53,542 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:19:53,586 - __main__ - INFO - Survey 12 created successfully
+2025-06-07 22:20:32,220 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:20:32,236 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:20:32,237 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:20:35,811 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:20:35,814 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:20:35,816 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:20:47,347 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:20:47,349 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:20:47,349 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:20:47,782 - __main__ - INFO - User ali created successfully
+2025-06-07 22:21:04,220 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:21:04,225 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:21:04,226 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:21:36,336 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:21:36,337 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:21:36,338 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:21:36,399 - __main__ - INFO - File saved: media\images\Screenshot 2025-06-07 052851_20250607_222136.png
+2025-06-07 22:21:36,404 - __main__ - INFO - File saved: media\videos\01062025_191732_REC_20250607_222136.mp4
+2025-06-07 22:21:38,079 - __main__ - INFO - Audio generated: media\audio\12_question_1.mp3
+2025-06-07 22:21:38,091 - __main__ - INFO - Question added to survey 12
+2025-06-07 22:21:38,100 - __main__ - INFO - Added 4 options for question 1
+2025-06-07 22:21:42,994 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:21:42,996 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:21:42,998 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:21:52,704 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:21:52,708 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:21:52,708 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:21:52,718 - __main__ - INFO - User Unknown logged out
+2025-06-07 22:21:52,792 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:21:52,795 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:21:52,796 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:21:59,355 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:21:59,357 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:21:59,357 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:21:59,862 - __main__ - INFO - User ali logged in successfully
+2025-06-07 22:21:59,935 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:21:59,939 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:21:59,939 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:22:07,835 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:22:07,837 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:22:07,838 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:22:07,945 - __main__ - INFO - Survey submitted by user ali
+2025-06-07 22:22:14,265 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:22:14,267 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:22:14,268 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:22:16,811 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:22:16,813 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:22:16,814 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:22:30,556 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:22:30,560 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:22:30,561 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:22:30,567 - __main__ - INFO - User ali logged out
+2025-06-07 22:22:30,661 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:22:30,663 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:22:30,664 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:22:35,128 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:22:35,129 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:22:35,130 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:23:56,862 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:23:56,864 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:23:56,865 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:23:56,896 - __main__ - INFO - Admin logged in successfully
+2025-06-07 22:23:57,015 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:23:57,016 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:23:57,017 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:24:06,833 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:24:06,836 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:24:06,837 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:24:06,988 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:24:06,989 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:24:06,990 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:24:20,876 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:24:20,878 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:24:20,878 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:24:38,381 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:24:38,387 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:24:38,389 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:24:54,182 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:24:54,185 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:24:54,187 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:24:56,367 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:24:56,372 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:24:56,373 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:24:58,624 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:24:58,626 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:24:58,628 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:25:01,102 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:25:01,107 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:25:01,108 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:25:01,116 - __main__ - INFO - User Unknown logged out
+2025-06-07 22:25:01,202 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:25:01,206 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:25:01,207 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:46:54,428 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:46:54,430 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:46:54,431 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:46:56,315 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:46:56,319 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:46:56,321 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:46:58,877 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:46:58,881 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:46:58,882 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:48:10,722 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:48:10,725 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:48:10,726 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:48:43,818 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:48:43,820 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:48:43,820 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:48:43,863 - __main__ - INFO - Admin logged in successfully
+2025-06-07 22:48:43,974 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:48:43,978 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:48:43,979 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:49:36,078 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:49:36,094 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:49:36,101 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:49:38,837 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:49:38,841 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:49:38,842 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:49:43,974 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:49:43,978 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:49:43,979 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:49:51,887 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:49:51,892 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:49:51,892 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:50:02,029 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:50:02,033 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:50:02,034 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:50:05,390 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:50:05,395 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:50:05,396 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:50:12,543 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:50:12,545 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:50:12,546 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:50:15,431 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:50:15,434 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:50:15,435 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:50:22,970 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:50:22,972 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:50:22,973 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:50:23,084 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:50:23,086 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:50:23,086 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:52:26,145 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:52:26,148 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:52:26,150 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:53:08,196 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:53:08,198 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:53:08,201 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:53:12,571 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:53:12,574 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:53:12,575 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:53:21,404 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:53:21,406 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:53:21,406 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:53:21,426 - __main__ - INFO - Admin logged in successfully
+2025-06-07 22:53:21,566 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:53:21,575 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:53:21,576 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:53:24,915 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:53:24,929 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:53:24,933 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:53:25,121 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:53:25,123 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:53:25,124 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:53:33,523 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:53:33,525 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:53:33,525 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:53:36,518 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:53:36,524 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:53:36,524 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:54:36,513 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:54:36,516 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:54:36,517 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:57:22,091 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:57:22,093 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:57:22,094 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:57:26,099 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:57:26,104 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:57:26,120 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:57:33,332 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:57:33,333 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:57:33,334 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:57:33,348 - __main__ - INFO - Admin logged in successfully
+2025-06-07 22:57:33,476 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:57:33,478 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:57:33,479 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:57:36,780 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:57:36,783 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:57:36,784 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:57:39,366 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:57:39,372 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:57:39,375 - __main__ - INFO - Application initialized successfully
+2025-06-07 22:57:41,287 - __main__ - INFO - Database initialized successfully
+2025-06-07 22:57:41,291 - __main__ - INFO - Media directories created successfully
+2025-06-07 22:57:41,292 - __main__ - INFO - Application initialized successfully
+2025-06-07 23:28:08,410 - __main__ - INFO - Database initialized successfully
+2025-06-07 23:28:08,415 - __main__ - INFO - Media directories created successfully
+2025-06-07 23:28:08,417 - __main__ - INFO - Application initialized successfully
